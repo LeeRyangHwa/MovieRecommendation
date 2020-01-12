@@ -1,5 +1,4 @@
-### MovieRecommendation
-영화 추천 웹서비스 
+### MovieRecommendation web
 -------------------------------
 
 ### 서비스에 개요
