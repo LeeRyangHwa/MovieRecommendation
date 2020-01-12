@@ -1,5 +1,6 @@
 # MovieRecommendation
-영화추천 웹페이지 만들기 프로젝트
+영화 추천 웹서비스 
+
 
 springboot를 이용하여 서버구축
 
