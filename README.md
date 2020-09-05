@@ -6,6 +6,9 @@
 - 현재 상영하고 있느 영화를 자신의 성향에 맞게 추천해주는 서비스
 
 
+### 구현 언어
+
+Springboot, java8, jsp, javaScript, python3, mysql, jpa, html, jquery
 
 ### 구현 사항
 ------------------------------
